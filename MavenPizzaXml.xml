@@ -1,0 +1,298 @@
+<Maven Pizza><Pizzas><Pizza1
+ Pizza="green_garden">779
+</Pizza1
+><Pizza2
+ Pizza="the_greek_xl">432
+</Pizza2
+><Pizza3
+ Pizza="thai_ckn">1811
+</Pizza3
+><Pizza4
+ Pizza="bbq_ckn">1873
+</Pizza4
+><Pizza5
+ Pizza="the_greek">668
+</Pizza5
+><Pizza6
+ Pizza="classic_dlx">1931
+</Pizza6
+><Pizza7
+ Pizza="hawaiian">1911
+</Pizza7
+><Pizza8
+ Pizza="sicilian">1529
+</Pizza8
+><Pizza9
+ Pizza="big_meat">1455
+</Pizza9
+><Pizza10
+ Pizza="ital_cpcllo">1116
+</Pizza10
+><Pizza11
+ Pizza="ckn_alfredo">790
+</Pizza11
+><Pizza12
+ Pizza="ckn_pesto">787
+</Pizza12
+><Pizza13
+ Pizza="prsc_argla">1138
+</Pizza13
+><Pizza14
+ Pizza="southw_ckn">1522
+</Pizza14
+><Pizza15
+ Pizza="cali_ckn">1781
+</Pizza15
+><Pizza16
+ Pizza="pep_msh_pep">1104
+</Pizza16
+><Pizza17
+ Pizza="spin_pesto">751
+</Pizza17
+><Pizza18
+ Pizza="ital_veggie">778
+</Pizza18
+><Pizza19
+ Pizza="mexicana">1151
+</Pizza19
+><Pizza20
+ Pizza="napolitana">1130
+</Pizza20
+><Pizza21
+ Pizza="spinach_fet">1129
+</Pizza21
+><Pizza22
+ Pizza="pepperoni">1882
+</Pizza22
+><Pizza23
+ Pizza="mediterraneo">742
+</Pizza23
+><Pizza24
+ Pizza="spicy_ital">1517
+</Pizza24
+><Pizza25
+ Pizza="ital_supr">1462
+</Pizza25
+><Pizza26
+ Pizza="spinach_supr">741
+</Pizza26
+><Pizza27
+ Pizza="veggie_veg">1208
+</Pizza27
+><Pizza28
+ Pizza="soppressata">779
+</Pizza28
+><Pizza29
+ Pizza="peppr_salami">1154
+</Pizza29
+><Pizza30
+ Pizza="five_cheese">1100
+</Pizza30
+><Pizza31
+ Pizza="four_cheese">1475
+</Pizza31
+><Pizza32
+ Pizza="the_greek_xxl">22
+</Pizza32
+><Pizza33
+ Pizza="calabrese">755
+</Pizza33
+><Pizza34
+ Pizza="brie_carre">380
+</Pizza34
+></Pizzas><Ingredientes><Ingredient 1
+ Ingredients="Barbecued Chicken">624
+</Ingredient 1
+><Ingredient 2
+ Ingredients="Red Peppers">4322
+</Ingredient 2
+><Ingredient 3
+ Ingredients="Green Peppers">1395
+</Ingredient 3
+><Ingredient 4
+ Ingredients="Tomatoes">6910
+</Ingredient 4
+><Ingredient 5
+ Ingredients="Red Onions">5034
+</Ingredient 5
+><Ingredient 6
+ Ingredients="Barbecue Sauce">624
+</Ingredient 6
+><Ingredient 7
+ Ingredients="Chicken">2230
+</Ingredient 7
+><Ingredient 8
+ Ingredients="Artichoke">593
+</Ingredient 8
+><Ingredient 9
+ Ingredients="Spinach">2639
+</Ingredient 9
+><Ingredient 10
+ Ingredients="Garlic">7130
+</Ingredient 10
+><Ingredient 11
+ Ingredients="Jalapeno Peppers">1484
+</Ingredient 11
+><Ingredient 12
+ Ingredients="Fontina Cheese">853
+</Ingredient 12
+><Ingredient 13
+ Ingredients="Gouda Cheese">593
+</Ingredient 13
+><Ingredient 14
+ Ingredients="Mushrooms">2573
+</Ingredient 14
+><Ingredient 15
+ Ingredients="Asiago Cheese">895
+</Ingredient 15
+><Ingredient 16
+ Ingredients="Alfredo Sauce">263
+</Ingredient 16
+><Ingredient 17
+ Ingredients="Pesto Sauce">772
+</Ingredient 17
+><Ingredient 18
+ Ingredients="Corn">891
+</Ingredient 18
+><Ingredient 19
+ Ingredients="Cilantro">891
+</Ingredient 19
+><Ingredient 20
+ Ingredients="Chipotle Sauce">891
+</Ingredient 20
+><Ingredient 21
+ Ingredients="Pineapple">1240
+</Ingredient 21
+><Ingredient 22
+ Ingredients="Thai Sweet Chilli Sauce">603
+</Ingredient 22
+><Ingredient 23
+ Ingredients="Bacon">1128
+</Ingredient 23
+><Ingredient 24
+ Ingredients="Pepperoni">2755
+</Ingredient 24
+><Ingredient 25
+ Ingredients="Italian Sausage">485
+</Ingredient 25
+><Ingredient 26
+ Ingredients="Chorizo Sausage">485
+</Ingredient 26
+><Ingredient 27
+ Ingredients="Sliced Ham">637
+</Ingredient 27
+><Ingredient 28
+ Ingredients="Mozzarella Cheese">2761
+</Ingredient 28
+><Ingredient 29
+ Ingredients="Capocollo">1749
+</Ingredient 29
+><Ingredient 30
+ Ingredients="Goat Cheese">877
+</Ingredient 30
+><Ingredient 31
+ Ingredients="Oregano">372
+</Ingredient 31
+><Ingredient 32
+ Ingredients="Anchovies">376
+</Ingredient 32
+><Ingredient 33
+ Ingredients="Green Olives">1633
+</Ingredient 33
+><Ingredient 34
+ Ingredients="Kalamata Olives">717
+</Ingredient 34
+><Ingredient 35
+ Ingredients="Feta Cheese">1106
+</Ingredient 35
+><Ingredient 36
+ Ingredients="Beef Chuck Roast">222
+</Ingredient 36
+><Ingredient 37
+ Ingredients="Brie Carre Cheese">126
+</Ingredient 37
+><Ingredient 38
+ Ingredients="Prosciutto">126
+</Ingredient 38
+><Ingredient 39
+ Ingredients="Caramelized Onions">126
+</Ingredient 39
+><Ingredient 40
+ Ingredients="Pears">126
+</Ingredient 40
+><Ingredient 41
+ Ingredients="Thyme">126
+</Ingredient 41
+><Ingredient 42
+ Ingredients="Nduja Salami">251
+</Ingredient 42
+><Ingredient 43
+ Ingredients="Pancetta">251
+</Ingredient 43
+><Ingredient 44
+ Ingredients="Friggitello Peppers">251
+</Ingredient 44
+><Ingredient 45
+ Ingredients="Calabrese Salami">487
+</Ingredient 45
+><Ingredient 46
+ Ingredients="Genoa Salami">384
+</Ingredient 46
+><Ingredient 47
+ Ingredients="Prosciutto di San Daniele">379
+</Ingredient 47
+><Ingredient 48
+ Ingredients="Arugula">379
+</Ingredient 48
+><Ingredient 49
+ Ingredients="Coarse Sicilian Salami">509
+</Ingredient 49
+><Ingredient 50
+ Ingredients="Luganega Sausage">509
+</Ingredient 50
+><Ingredient 51
+ Ingredients="Onions">509
+</Ingredient 51
+><Ingredient 52
+ Ingredients="Soppressata Salami">259
+</Ingredient 52
+><Ingredient 53
+ Ingredients="Artichokes">1509
+</Ingredient 53
+><Ingredient 54
+ Ingredients="Peperoncini verdi">505
+</Ingredient 54
+><Ingredient 55
+ Ingredients="Provolone Cheese">366
+</Ingredient 55
+><Ingredient 56
+ Ingredients="Smoked Gouda Cheese">366
+</Ingredient 56
+><Ingredient 57
+ Ingredients="Romano Cheese">366
+</Ingredient 57
+><Ingredient 58
+ Ingredients="Blue Cheese">366
+</Ingredient 58
+><Ingredient 59
+ Ingredients="Ricotta Cheese">491
+</Ingredient 59
+><Ingredient 60
+ Ingredients="Gorgonzola Piccante Cheese">491
+</Ingredient 60
+><Ingredient 61
+ Ingredients="Parmigiano Reggiano Cheese">491
+</Ingredient 61
+><Ingredient 62
+ Ingredients="Eggplant">259
+</Ingredient 62
+><Ingredient 63
+ Ingredients="Zucchini">662
+</Ingredient 63
+><Ingredient 64
+ Ingredients="Sun-dried Tomatoes">497
+</Ingredient 64
+><Ingredient 65
+ Ingredients="Plum Tomatoes">247
+</Ingredient 65
+></Ingredientes></Maven Pizza>
